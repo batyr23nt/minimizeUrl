@@ -1,2 +1,2 @@
 # minimizeUrl
-App helps youm to minimize your url address
+App helps you to minimize your url address
